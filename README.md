@@ -4,7 +4,7 @@
 Simple and small program that contains an easy to use class that allows you to overclock your NVIDIA GPU.
 
 
-- NOTE: Please place the "NVGPU_DLL.dll" into the same directory as compiled executable, that library is required for code to work.
+- NOTE: Please place the "NVGPU_DLL.dll" file into the same directory as compiled executable, that library is required for code to work.
 ## DISCLAIMER: I DO NOT TAKE ANY RESPONSIBILITIES FOR ANY DAMAGES CAUSED BY OVERCLOCKING YOUR SYSTEM.
 
 Enjoy!
