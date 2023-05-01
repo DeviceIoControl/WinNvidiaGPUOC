@@ -12,8 +12,6 @@ namespace NV_API
 		static bool Initialize();
 
 		static int Set_GPU_OVERCLOCK(bool E_Over, int OC_GPU, int OC_M, int OC_V);
-
-		static int Set_GPU_OVERCLOCK(bool E_Over, int OC_GPU, int OC_M, int OC_V);
 		static int Set_CoreOC(int index, int offset);
 		static int Set_MEMOC(int index, int offset);
 		static int Get_GPU_Overclock_Range();
